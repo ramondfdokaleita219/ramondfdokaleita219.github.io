@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /login
+Sitemap:https://ramondfdokaleita219.github.io/GZJ/sitemap_index.txt
+Sitemap:https://ramondfdokaleita219.github.io/DSC/sitemap_index.txt
+Sitemap:https://ramondfdokaleita219.github.io/XCV/sitemap_index.txt
+Sitemap:https://ramondfdokaleita219.github.io/GKJ/sitemap_index.txt
+Sitemap:https://ramondfdokaleita219.github.io/GQJ/sitemap_index.txt
